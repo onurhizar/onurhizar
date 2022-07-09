@@ -1,14 +1,16 @@
 ### Hi there, I'm Onur 👋
-A curious developer who has lots of interests
+A curious fullstack developer who has lots of interests
 
-## Some of them:
-* Frontend Development (React, Vue)
-* Backend Development (NodeJS, Django)
+## Some of them
+### Main Focus: 
+* Frontend (React, Vue)
+* Backend (NodeJS, Django)
 * Data Security (Auth, Cryptography)
-* Testing (Jest)
-* Pentesting
+
+### Side Interests: 
 * Linux
 * DevOps
+* Pentesting
 * Raspberry Pi and Arduino
 * Machine Learning (Tensorflow, Keras)
 * Automatizing
@@ -33,7 +35,6 @@ A curious developer who has lots of interests
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat&logo=selenium&logoColor=white)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 
