@@ -6,9 +6,9 @@ A curious fullstack developer who has lots of interests
 * Frontend (React, Vue)
 * Backend (NodeJS, Django)
 * Data Security (Auth, Cryptography)
+* Linux
 
 ### Side Interests: 
-* Linux
 * DevOps
 * Pentesting
 * Raspberry Pi and Arduino
