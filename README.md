@@ -1,20 +1,12 @@
 ### Hi there, I'm Onur 👋
 A fullstack developer
 
-- **Current Project:** [Spring Boot XBOX GamePass Clone](https://github.com/onurhizar/spring-boot-gamepass-app)  
-- **Last Project:** [CengTodo](https://cengtodo.cyclic.app)  
-
-### Main Focus: 
-* Frontend (ReactJS)
-* Backend (Spring, NodeJS)
+### Interests: 
+* Frontend (React, NextJS)
+* Backend (Spring Boot, NodeJS)
 * Security
 * Linux
-
-### Side Interests: 
-* DevOps
-* Pentesting
-* Raspberry Pi
-
+* Devops
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
@@ -22,7 +14,6 @@ A fullstack developer
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
